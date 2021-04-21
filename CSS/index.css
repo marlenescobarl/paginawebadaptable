@@ -87,6 +87,7 @@ header .textos-header
     display: flex;
     justify-content: space-evenly;
 }
+
 .imagen-nosotro
 {
     width: 48%;
@@ -111,4 +112,10 @@ header .textos-header
     padding: 2px;
     box-shadow: 0 0 6px 0 rgba(0, 0green, 0blue, .5);
     margin-right: 5px;
+}
+.contenido-textos p
+{
+    padding: 0 0 30px 15px;
+    font-weight: 300;
+    text-align: justify;
 }
