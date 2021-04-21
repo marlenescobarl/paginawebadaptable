@@ -91,6 +91,7 @@ header .textos-header
 .imagen-nosotro
 {
     width: 48%;
+    
 }
 .contenedor-nosotros .contenido-textos
 {
@@ -150,5 +151,5 @@ header .textos-header
 }
 .hover-galeria
 {
-    
+    position: absolute;
 }
