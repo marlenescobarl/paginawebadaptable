@@ -241,3 +241,10 @@ header .textos-header
     font-weight: 300;
     text-align: justify;
 }
+/*  footer */
+footer
+{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+}
